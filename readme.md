@@ -216,12 +216,12 @@ Para executar o projeto em seu computador você precisa ter as seguintes ferrame
 
 1. Comando para fazer o clone:
 ```sh
-❯ git clone https://github.com/
+❯ git clone https://github.com/Emylle-Gama/locadora-emylle.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd Pasta
+❯ cd locadora-emylle
 ```
 
 3. Instalando as dependências:
@@ -241,6 +241,12 @@ Para executar o projeto em seu computador você precisa ter as seguintes ferrame
 
 ```sh
 ❯ npm run dev
+```
+
+**Usando `quasar CLI`** &nbsp;
+
+```sh
+❯ quasar dev
 ```
 
 ---
